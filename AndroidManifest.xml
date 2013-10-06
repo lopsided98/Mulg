@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
       package="com.bensoft.mulg2"
       android:versionCode="1"
-      android:versionName="0.8.0" android:installLocation="auto">
+      android:versionName="0.8.1" android:installLocation="auto">
     <uses-sdk android:targetSdkVersion="18" android:minSdkVersion="13"/>
     <application android:allowBackup="true" android:label="@string/app_name" android:icon="@drawable/ic_launcher" android:hardwareAccelerated="false">
         <activity android:name="GameActivity"
