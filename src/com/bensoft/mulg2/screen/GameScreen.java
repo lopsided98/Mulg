@@ -117,7 +117,7 @@ public class GameScreen extends Screen<GameTextureBundle> {
         loadLevel(game.getLevels()[currLevelIndex]);
 
         inventoryBackground = new Rectangle(camera.getWidth() / 2, 10, camera.getWidth(), GAME_SCREEN_INVENTORY_HEIGHT, getEngine().getVertexBufferObjectManager());
-        inventoryBackground.setColor(new Color(64, 64, 64));
+        inventoryBackground.setColor(new Color(25, 25, 25));
         hud.attachChild(inventoryBackground);
         hud.sortChildren();
 

@@ -14,7 +14,7 @@ public final class Constants {
     // World constants
     public static final float PIXELS_PER_METER = 16f;
     public static final float MAX_FLOOR_FRICTION = 1.5f;
-    public static final boolean ALLOW_DEATH = false;
+    public static final boolean ALLOW_DEATH = true;
 
     // Acceleration data constants
     public static final float GRAVITY_MULTIPLIER = 1.0f;
